@@ -1,10 +1,10 @@
 {
 	"knowledgebase": [{
 		"question_variations": ["Waar is het WK Dorp?", "Hoe kom ik bij het WK-dorp?", "Waar is Villa Sporza?"],
-		"answer": "Vraag aan de receptie!"
+		"answer": "Voor meer info rond Villa Sporza, surf naar https://sporza.be/nl/2018/06/11/een-wk-match-van-de-groepsfase-bijwonen-bij-sporza-deze-plaatse/ Als je vragen hebt rond je reservatie of je reservatie wil wijzingen, kan je best mailen naar 2018@sporza.be. Als je wil weten hoe je best de VRT bereikt, kan je een kijkje nemen op: https://www.vrt.be/nl/contact/routebeschrijving"
 	}, {
-		"question_variations": ["Wat is Sporza?", "Wat betekent Sporza?"],
-		"answer": "Sporza is een merk van de VRT"
+		"question_variations": ["Wie ben ik?"],
+		"answer": "Dit spelletje werkt niet via deze weg, reageer op het Facebook bericht: https://www.facebook.com/sporza/photos/a.170474339270.120407.22186054270/10156877754284271"
 	}],
-	"minimum_matching_score": 75
+	"minimum_matching_score": 85
 }
